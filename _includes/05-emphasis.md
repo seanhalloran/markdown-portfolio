@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I can do some ***Java*** and ***C++***
+Also have some experience with **SQL** and **MS Excel**
+However I have *much* to learn still
